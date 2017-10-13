@@ -1,0 +1,2 @@
+E:\GIT\common常用方法\Utility基础类大全\obj\Debug\Common.Utility.csprojResolveAssemblyReference.cache
+E:\GIT\common常用方法\Utility基础类大全\obj\Debug\Common.Utility.csproj.CoreCompileInputs.cache
